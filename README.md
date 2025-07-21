@@ -1,69 +1,98 @@
-🎓 Agent-Based Admission Automation Framework (GENOVA)
-Welcome to a smarter way of handling student admissions!
-GENOVA is a collaborative, AI-powered platform built to automate the entire admission process—from handling inquiries and verifying documents to checking eligibility and processing financial aid. By combining intelligent agents with modular design, this system reduces manual effort and makes admissions faster, smarter, and more reliable.
+# 🎓 GENOVA: Agent-Based Admission Automation Framework
 
-🌟 What This Project Does
+**Welcome to a smarter way of handling student admissions!**  
+GENOVA is a collaborative, AI-powered platform designed to automate the entire admission workflow—from handling applicant queries and document verification to eligibility checks and financial aid processing.
+
+By combining intelligent agents with a modular architecture, GENOVA minimizes manual effort and makes admissions faster, smarter, and more reliable.
+
+---
+
+## 🌟 Features
+
 This framework leverages intelligent software agents, each responsible for a core admission function:
 
-📬 Answering applicant queries using NLP
+📬 **Chatbot Agent**: Handles applicant queries using NLP (OpenAI GPT)
+📄 **Document Validator Agent**: Validates uploaded documents using rule-based logic
+✅ **Eligibility Agent**: Evaluates student eligibility criteria
+💰 **Finance Agent**: Manages financial aid requests and generates fee slips
 
-📄 Validating uploaded documents with rule-based checks
+It integrates cutting-edge tools and technologies for semantic understanding, rule evaluation, and database storage.
 
-✅ Evaluating student eligibility criteria
+---
 
-💰 Managing financial aid requests and fee slip generation
+## 🤝 Team Collaboration
 
-It integrates advanced tools like OpenAI’s large language models, ChromaDB for semantic search, and SQLite for structured logic handling.
+GENOVA was developed as a group project that emphasized:
 
-🤝 Teamwork & Collaboration
-GENOVA was developed as a group project, showcasing the importance of clear communication, role delegation, and seamless integration across modules. Each team member led specific agents/modules, and I contributed to both development and coordination efforts. Working together, we translated a complex real-world problem into a scalable tech solution.
+Clear communication  
+Well-defined roles and responsibilities  
+Seamless module integration  
 
-💡 Why It Matters
-Student admissions often involve repetitive, error-prone processes. GENOVA helps educational institutions:
+> I contributed to both agent development and project coordination to ensure smooth execution and scalability.
 
-Minimize delays and manual work
+---
 
-Improve the applicant experience
+## 💡 Why GENOVA?
 
-Enable smarter decisions using AI insights
+Traditional student admissions involve repetitive and error-prone manual tasks. GENOVA addresses these pain points by:
 
-Easily scale as student volumes grow
+Minimizing delays and human workload  
+Enhancing the applicant experience  
+Enabling smarter, AI-driven decisions  
+Scaling easily with increasing student volumes  
 
-🧠 Tech Behind the Scenes
-💬 OpenAI GPT – Natural language understanding for chatbot agents
+---
 
-📚 ChromaDB – Semantic search for document and question retrieval
+## 🧠 Tech Stack
 
-🗃️ SQLite – Rule storage and fast lookups
+💬 **OpenAI GPT** – Natural Language Processing for chatbot agents  
+📚 **ChromaDB** – Semantic search for document/question retrieval  
+🗃️ **SQLite** – For storing rules and handling fast lookups  
+🐍 **Python** – The backbone of agent orchestration  
 
-🐍 Python – Core language driving agent orchestration
+> A user-friendly chatbot interface allows real-time usage and monitoring.
 
-A chatbot interface is available for real-time usage and monitoring.
+---
 
-📊 Key Highlights
-90%+ document validation accuracy
+## 📊 Key Highlights
 
-Intelligent, human-like responses to applicant queries
+✅ 90%+ document validation accuracy  
+🧠 Human-like responses to applicant queries  
+⏱️ 65%+ reduction in overall admission processing time  
+🔍 Real-time monitoring with minimal human intervention  
 
-65%+ reduction in overall processing time
+---
 
-Live monitoring with minimal human input
+## 🚀 What’s Next?
 
-🚀 What’s Next
-🌐 Add multilingual support
+🌐 **Multilingual support** for global applicant interaction  
+📊 **Enhanced analytics dashboards** for insights  
+🔗 **API integrations** with national educational portals  
+📦 **Modular extensions** for other academic workflows (e.g., hostel allocation, course registration)
 
-📊 Enhanced analytics dashboards
+---
 
-🔗 API integrations with national education portals
+##  Want to Contribute?
 
-📦 Modular extension for other academic workflows
+We welcome contributions of all kinds!  
+Whether it’s improving prompt logic, enhancing agent workflows, or suggesting new features:
 
-🤗 Want to Contribute?
-We welcome contributions! Whether you're improving prompts, enhancing logic, or proposing new features—feel free to fork this repo and submit a pull request. Your ideas matter.
+Fork the repository  
+Create your branch  
+Submit a Pull Request 🎉
 
-📄 License
-This project is licensed under the MIT License – use, modify, and share freely.
+Your ideas can make GENOVA even better!
 
-📬 Contact
-Have feedback, ideas, or collaboration opportunities? Let’s connect:
-📧 shrutisuman61@gmail.com
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – use, modify, and share it freely.
+
+---
+
+## 📬 Contact
+
+Have suggestions or want to collaborate?
+
+📧 **shrutisuman61@gmail.com**
