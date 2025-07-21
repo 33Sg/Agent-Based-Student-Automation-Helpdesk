@@ -1,74 +1,69 @@
-# 🎓 Agent-Based Admission Automation Framework
+🎓 Agent-Based Admission Automation Framework (GENOVA)
+Welcome to a smarter way of handling student admissions!
+GENOVA is a collaborative, AI-powered platform built to automate the entire admission process—from handling inquiries and verifying documents to checking eligibility and processing financial aid. By combining intelligent agents with modular design, this system reduces manual effort and makes admissions faster, smarter, and more reliable.
 
-Welcome to a smarter way of handling student admissions!  
-This project is built to automate the entire admission process—from handling inquiries and verifying documents to checking eligibility and processing financial aid. By combining the power of AI with a modular agent-based design, this system reduces manual effort and makes admissions faster, smarter, and more reliable.
+🌟 What This Project Does
+This framework leverages intelligent software agents, each responsible for a core admission function:
 
----
+📬 Answering applicant queries using NLP
 
-## 🌟 What This Project Does
+📄 Validating uploaded documents with rule-based checks
 
-This framework uses intelligent software agents, each focused on a specific part of the admission pipeline:
+✅ Evaluating student eligibility criteria
 
-- 📬 Answering applicant questions
-- 📄 Validating uploaded documents
-- ✅ Checking eligibility based on rules
-- 💰 Managing financial aid and fee slip generation
+💰 Managing financial aid requests and fee slip generation
 
-It integrates modern tools like **OpenAI’s large language models**, **ChromaDB** for semantic search, and **SQLite** for structured decision-making.
+It integrates advanced tools like OpenAI’s large language models, ChromaDB for semantic search, and SQLite for structured logic handling.
 
----
+🤝 Teamwork & Collaboration
+GENOVA was developed as a group project, showcasing the importance of clear communication, role delegation, and seamless integration across modules. Each team member led specific agents/modules, and I contributed to both development and coordination efforts. Working together, we translated a complex real-world problem into a scalable tech solution.
 
-## 💡 Why It Matters
+💡 Why It Matters
+Student admissions often involve repetitive, error-prone processes. GENOVA helps educational institutions:
 
-Admissions can be complicated and time-consuming. This system helps universities and colleges reduce delays, avoid errors, and improve the experience for both administrators and students. The modular setup also makes it easy to scale and adapt for future needs.
+Minimize delays and manual work
 
----
+Improve the applicant experience
 
-## 🧠 Tech Behind the Scenes
+Enable smarter decisions using AI insights
 
-- **OpenAI GPT** – Understands and processes natural language
-- **ChromaDB** – Finds relevant documents through semantic search
-- **SQLite** – Stores structured data like eligibility rules
-- **Python** – The core language for all agents
+Easily scale as student volumes grow
 
-You can also connect it to a chatbot interface for real-time monitoring.
+🧠 Tech Behind the Scenes
+💬 OpenAI GPT – Natural language understanding for chatbot agents
 
----
+📚 ChromaDB – Semantic search for document and question retrieval
 
-## 📊 Highlights
+🗃️ SQLite – Rule storage and fast lookups
 
-- 90%+ accuracy in document validation  
-- Fast and relevant responses to student queries  
-- 65% reduction in processing time  
-- Real-time monitoring with minimal human input
+🐍 Python – Core language driving agent orchestration
 
----
+A chatbot interface is available for real-time usage and monitoring.
 
-## 🚀 What’s Next
+📊 Key Highlights
+90%+ document validation accuracy
 
-- 🌐 Multilingual support for global reach  
-- 🧾 Deeper analytics for administrators  
-- 🔗 API integration with national education portals  
-- 📚 Extendable to other administrative processes
+Intelligent, human-like responses to applicant queries
 
----
+65%+ reduction in overall processing time
 
-## 🤝 Want to Contribute?
+Live monitoring with minimal human input
 
-We’d love your help! Whether you’re improving prompts, optimizing code, or adding features—just fork this repo and send us a pull request. Open to feedback and ideas!
+🚀 What’s Next
+🌐 Add multilingual support
 
----
+📊 Enhanced analytics dashboards
 
-## 📄 License
+🔗 API integrations with national education portals
 
-Licensed under the **MIT License** – free to use, modify, and share.
+📦 Modular extension for other academic workflows
 
----
+🤗 Want to Contribute?
+We welcome contributions! Whether you're improving prompts, enhancing logic, or proposing new features—feel free to fork this repo and submit a pull request. Your ideas matter.
 
-## 📬 Contact
+📄 License
+This project is licensed under the MIT License – use, modify, and share freely.
 
-Got questions, ideas, or collaboration requests? Reach out at:  
-📧 `shrutisuman61@gmail.com`
-
-
-
+📬 Contact
+Have feedback, ideas, or collaboration opportunities? Let’s connect:
+📧 shrutisuman61@gmail.com
